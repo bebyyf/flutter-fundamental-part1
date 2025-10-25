@@ -1,4 +1,6 @@
 import 'package:flutter/material.dart';
+import 'basic_widgets/text_widget.dart';
+import 'basic_widgets/image_widget.dart';
 
 void main() {
   runApp(const MyApp());
@@ -48,11 +50,7 @@ class _MyHomePageState extends State<MyHomePage> {
         child: Column(
           mainAxisAlignment: MainAxisAlignment.center,
           children: <Widget>[
-            const Text(
-              'My Babby Findia R.S.',
-              style: TextStyle(fontSize: 20, fontWeight: FontWeight.bold),
-            ),
-            const SizedBox(height: 10),
+            const MyImageWidget(),
             Text(
               '$_counter',
               style: Theme.of(context).textTheme.headlineMedium,
