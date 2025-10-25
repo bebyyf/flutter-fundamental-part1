@@ -86,7 +86,8 @@ Klik **Create repository** seperti gambar berikut.
 ![Screenshot Langkah 2](images/ss6.png)
 
 **Langkah 3:**  
-Kembali ke VS code, project flutter hello_world, buka terminal pada menu `Terminal ) New Terminal`. Lalu ketik perintah berikut untuk inisialisasi git pada project Anda.
+Kembali ke VS code, project flutter hello_world, buka terminal pada menu `Terminal ) New Terminal`. 
+Lalu ketik perintah berikut untuk inisialisasi git pada project Anda.
 ![Screenshot Langkah 3](images/ss7.png)
 
 **Langkah 4:**  
